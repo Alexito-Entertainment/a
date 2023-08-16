@@ -31,8 +31,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 25px;
-  width: 65%;
+  padding: 35px;
+  width: 60%;
 }
 
 .logo-container {
